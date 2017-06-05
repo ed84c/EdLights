@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {‘EdLights}
+= Project: ‘EdLights
 
 Light randomiser. This is a trivial and largely pointless project. It is unlikely to be a panacea of contentment.
 
